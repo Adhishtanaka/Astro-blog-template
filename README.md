@@ -1,2 +1,2 @@
-# blog
-its a blog
+# blog Template 
+its a blog template
