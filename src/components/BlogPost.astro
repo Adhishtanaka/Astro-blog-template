@@ -2,10 +2,10 @@
 
 const { title, url,date,description } = Astro.props
 ---
-<div class="blog-post-card">
-    <div class="blog-post-content">
-      <h2 class="blog-post-title"><a href={url}>{title}</a></h2>
-      <p class="blog-post-description">{description}</p>
-      <span class="blog-post-date">{date}</span>
+<div>
+    <div>
+      <h2><a href={url}>{title}</a></h2>
+      <p>{description}</p>
+      <span>{date}</span>
     </div>
   </div>
