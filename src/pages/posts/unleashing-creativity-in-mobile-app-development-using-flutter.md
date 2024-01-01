@@ -6,7 +6,7 @@ description: >-
   applications, has swiftly emerged as a top choice for developers venturing
   into the world of mobile app development
 pubDate: '2024-01-01'
-image: /public/assets/download-2-.png
+image: /assets/download-2-.png
 ---
 Flutter, the dynamic and versatile framework for building natively compiled applications, has swiftly emerged as a top choice for developers venturing into the world of mobile app development. Let's navigate through the realm of Flutter and uncover why it stands out as the perfect platform for both beginners and seasoned developers alike.
 
