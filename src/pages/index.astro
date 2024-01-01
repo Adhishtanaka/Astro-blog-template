@@ -13,12 +13,24 @@ const allPosts = await Astro.glob('../pages/posts/*.md');
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		<title>Home</title>
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 	</head>
 	<body>
 		<center><h1>Astro blog template</h1>
         <Navigation></Navigation>
 	</center>
 	<br>
-	{allPosts.map((post) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+	{allPosts.map((post) => <BlogPost url={post.url} title={post.frontmatter.title} description={post.frontmatter.description} date={post.frontmatter.pubDate.slice(0,10)}/>)}
+	<script>
+		if (window.netlifyIdentity) {
+		  window.netlifyIdentity.on("init", user => {
+			if (!user) {
+			  window.netlifyIdentity.on("login", () => {
+				document.location.href = "/admin/";
+			  });
+			}
+		  });
+		}
+	  </script>
 	</body>
 </html>
