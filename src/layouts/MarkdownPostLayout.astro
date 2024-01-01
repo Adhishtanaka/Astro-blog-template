@@ -1,4 +1,5 @@
 ---
+import SEO from '../components/SEO.astro'
 const { frontmatter } = Astro.props;
 ---
 
@@ -17,7 +18,7 @@ const { frontmatter } = Astro.props;
 
 <html lang="en">
 <head>
-    <SEO title={frontmatter.title} description={frontmatter.description} />
+    <SEO title={frontmatter.title} description={frontmatter.description} image={frontmatter.image}/>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 
