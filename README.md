@@ -28,17 +28,23 @@ Follow these steps to set up the project on your local machine.
 4. Enable Netlify Identity:
 
 -  Go to the Netlify dashboard.
-- Select your site.
+- Select your site and goto site configuration.
 - Navigate to the "Identity" tab.
 - Enable Identity and configure the settings.
 
 5. Configure GitHub Gateway:
 
-- In the Netlify dashboard, go to the "Settings" tab.
-- Scroll down to the "Access control" section.
+- Scroll down to the "Services" section.
 - Click "Enable Identity" and "Git Gateway."
 - Follow the prompts to authorize Netlify with your GitHub account.
 
+6. Configure Registration:
+
+- Scroll down to the "Registration/ExternalProvider" section.
+- Click "Add Provider" and select github
+- after that Scroll down to the "Registration/Registration preferences" section.
+- select invite only.
+- after everything done invite you as a team member.
 ### Usage
 
      ```bash
