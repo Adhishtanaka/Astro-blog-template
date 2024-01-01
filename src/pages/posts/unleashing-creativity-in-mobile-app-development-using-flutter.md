@@ -20,11 +20,11 @@ Flutter, the dynamic and versatile framework for building natively compiled appl
 
 
 
-Widget Wonderland: Flutter's widget-based architecture is a game-changer. Everything in Flutter is a widget, making UI development intuitive and efficient. Customize, combine, and create stunning interfaces effortlessly with Flutter's widget magic.
+3.Widget Wonderland: Flutter's widget-based architecture is a game-changer. Everything in Flutter is a widget, making UI development intuitive and efficient. Customize, combine, and create stunning interfaces effortlessly with Flutter's widget magic.
 
 
 
-3. Packages Paradise: Flutter boasts a rich ecosystem of packages and plugins, streamlining development by providing pre-built solutions for various functionalities. Need authentication? There's a package for that. Want animated effects? Flutter's got you covered. Accelerate your app development with the vast Flutter package repository.
+4. Packages Paradise: Flutter boasts a rich ecosystem of packages and plugins, streamlining development by providing pre-built solutions for various functionalities. Need authentication? There's a package for that. Want animated effects? Flutter's got you covered. Accelerate your app development with the vast Flutter package repository.
 
 
 
