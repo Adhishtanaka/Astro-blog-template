@@ -4,12 +4,12 @@ backend:
 
 publish_mode: editorial_workflow
 
-media_folder: "/assets"
-public_folder: "/assets"
+media_folder: "public/assets"
+public_folder: "public/assets"
 
 collections:
   - name: "blog" 
-    label: "Blog"
+    label: "Post"
     folder: "src/pages/posts" 
     create: true 
     slug: "{{slug}}" 

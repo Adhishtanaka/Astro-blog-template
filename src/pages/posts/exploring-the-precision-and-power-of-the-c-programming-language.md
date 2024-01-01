@@ -1,6 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: Exploring the Precision and Power of the C Programming Language
+description: Embark on a journey into the world of programming precision with the C language. In this exploration, we delve into the concise syntax, versatility, and manual control that make C a stalwart in the coding realm.
 pubDate: '2024-01-01'
 image: /assets/logo-c-1.png
 ---
