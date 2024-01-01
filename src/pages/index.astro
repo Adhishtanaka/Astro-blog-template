@@ -1,6 +1,7 @@
 ---
 import Navigation from "../components/Navigation.astro";
 import BlogPost from "../components/BlogPost.astro";
+import Footer from "../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 const allPosts = await Astro.glob("../pages/posts/*.md");
 ---
@@ -40,6 +41,7 @@ const allPosts = await Astro.glob("../pages/posts/*.md");
         />
       ))
     }
+	<Footer></Footer>
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", (user) => {
