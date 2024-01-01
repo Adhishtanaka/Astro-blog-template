@@ -20,23 +20,23 @@ Flutter, the dynamic and versatile framework for building natively compiled appl
 
 
 
-Widget Wonderland: Flutter's widget-based architecture is a game-changer. Everything in Flutter is a widget, making UI development intuitive and efficient. Customize, combine, and create stunning interfaces effortlessly with Flutter's widget magic.
+3. Widget Wonderland: Flutter's widget-based architecture is a game-changer. Everything in Flutter is a widget, making UI development intuitive and efficient. Customize, combine, and create stunning interfaces effortlessly with Flutter's widget magic.
 
 
 
-3. Packages Paradise: Flutter boasts a rich ecosystem of packages and plugins, streamlining development by providing pre-built solutions for various functionalities. Need authentication? There's a package for that. Want animated effects? Flutter's got you covered. Accelerate your app development with the vast Flutter package repository.
+4. Packages Paradise: Flutter boasts a rich ecosystem of packages and plugins, streamlining development by providing pre-built solutions for various functionalities. Need authentication? There's a package for that. Want animated effects? Flutter's got you covered. Accelerate your app development with the vast Flutter package repository.
 
 
 
-4. Engaging Community: The Flutter community is vibrant, supportive, and ever-growing. From troubleshooting to sharing innovative solutions, platforms like Stack Overflow and the Flutter community forums offer a wealth of knowledge and assistance. Join the Flutter journey with a community that welcomes both newcomers and experienced developers.
+5. Engaging Community: The Flutter community is vibrant, supportive, and ever-growing. From troubleshooting to sharing innovative solutions, platforms like Stack Overflow and the Flutter community forums offer a wealth of knowledge and assistance. Join the Flutter journey with a community that welcomes both newcomers and experienced developers.
 
 
 
-5. Learning Curve Like a Flutter: Flutter's learning curve is designed to be beginner-friendly. With a focus on simplicity and a hot-reload feature that instantly reflects code changes, Flutter encourages an iterative and enjoyable development process. It's like crafting an app with the guidance of a friendly mentor.
+6. Learning Curve Like a Flutter: Flutter's learning curve is designed to be beginner-friendly. With a focus on simplicity and a hot-reload feature that instantly reflects code changes, Flutter encourages an iterative and enjoyable development process. It's like crafting an app with the guidance of a friendly mentor.
 
 
 
-6. Career Booster: Flutter is not just a framework; it's a gateway to exciting career opportunities in mobile app development. As major companies adopt Flutter for their applications, the demand for Flutter developers is on the rise. Embark on your Flutter journey, and open doors to a world of possibilities in the tech industry.
+7. Career Booster: Flutter is not just a framework; it's a gateway to exciting career opportunities in mobile app development. As major companies adopt Flutter for their applications, the demand for Flutter developers is on the rise. Embark on your Flutter journey, and open doors to a world of possibilities in the tech industry.
 
 
 
