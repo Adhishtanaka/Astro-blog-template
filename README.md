@@ -44,7 +44,7 @@ Follow these steps to set up the project on your local machine.
 - Click "Add Provider" and select github
 - after that Scroll down to the "Registration/Registration preferences" section.
 - select invite only.
-- after everything done invite you as a team member.
+- after everything done you can invite you as a team member & sign in to CMS.
 ### Usage
 
      ```bash
