@@ -1,8 +1,7 @@
 ---
-title: 'Test'
-pubDate: 2022-07-01
-description: 'This is the first test post of my new Astro blog.'
-image: '/assets/full-logo-light.png'
+title: Test Post 1
+pubDate: 2022-07-01T00:00:00.000Z
+image: /assets/download-1-.png
 ---
 # My First Blog Post
 
